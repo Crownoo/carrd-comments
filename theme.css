@@ -1,0 +1,22 @@
+:root {
+  --color-prettylights-syntax-comment: #8b8b7a;
+  --color-prettylights-syntax-constant: #8c6d3a;
+  --color-prettylights-syntax-entity: #5c7a5c;
+
+  --color-canvas-default: #f6f4ee;
+  --color-canvas-subtle: #efe9dc;
+
+  --color-border-default: #d8d2c4;
+  --color-border-muted: #e6e0d5;
+
+  --color-accent-fg: #7a9a6b;
+  --color-accent-emphasis: #7a9a6b;
+
+  --color-attention-fg: #b37a3d;
+
+  --color-btn-primary-bg: #7a9a6b;
+  --color-btn-primary-text: #ffffff;
+
+  --color-fg-default: #3a3a32;
+  --color-fg-muted: #6c6c5c;
+}
